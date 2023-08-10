@@ -26,7 +26,7 @@ import (
 var Version string
 
 func main() {
-	p.RunProvider("xyz", Version,
+	p.RunProvider("vco", Version,
 		// We tell the provider what resources it needs to support.
 		// In this case, a single custom resource.
 		infer.Provider(infer.Options{

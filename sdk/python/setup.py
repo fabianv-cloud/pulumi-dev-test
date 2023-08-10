@@ -37,7 +37,7 @@ def readme():
         return "xyz Pulumi Package - Development Version"
 
 
-setup(name='pulumi_xyz',
+setup(name='fabianv-cloud_vco',
       version=VERSION,
       long_description=readme(),
       long_description_content_type='text/markdown',
@@ -46,7 +46,7 @@ setup(name='pulumi_xyz',
       },
       packages=find_packages(),
       package_data={
-          'pulumi_xyz': [
+          'fabianv-cloud_vco': [
               'py.typed',
               'pulumi-plugin.json',
           ]

@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/sdk/v3
+module github.com/fabianv-cloud/pulumi-dev-test/provider
 
 go 1.17
 

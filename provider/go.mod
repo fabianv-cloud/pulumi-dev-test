@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/provider
+module github.com/fabianv-cloud/pulumi-dev-test
 
 go 1.18
 
